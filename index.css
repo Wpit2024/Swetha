@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: brown;
+    flex-wrap: wrap;
+    /* width: 100vw; */
+}
+.box{
+    background-color: white;
+    /* height: 50vh; */
+    width: 45vw;
+    margin: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 85px;
+}
